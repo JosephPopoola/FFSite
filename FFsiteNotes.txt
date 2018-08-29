@@ -1,0 +1,6 @@
+FF Notes
+
+GATSBY - https://next.gatsbyjs.org/
+NETLIFY - https://next.gatsbyjs.org/packages/gatsby-plugin-netlify/?=
+SASS - https://next.gatsbyjs.org/packages/gatsby-plugin-sass/?=
+ANIMATE.CSS - https://daneden.github.io/animate.css/

@@ -1,0 +1,27 @@
+FF Animations (using animate.css)
+
+---
+LANDING
+---
+
+ON SHOW
+
+- logo	
+	> fade in (fadeIn)
+	
+- button
+	> fade in (fadeIn)
+	
+---
+	
+ON CLICK
+
+- logo
+	> spin -> fade out (rotateOut)
+
+- button
+	>  grow -> srink -> fade out (pulse + zoomOut)
+
+---
+HOME
+---
